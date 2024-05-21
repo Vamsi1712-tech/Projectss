@@ -12,10 +12,10 @@ Email
 richard@example.com
 
 Phone
-+1 (213) 352-2795
++91 9494771118
 
 Birthday
-June 23, 1982
+December 17, 2001
 
 Location
 Sacramento, California, USA
