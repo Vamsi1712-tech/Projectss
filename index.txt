@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Sri Sai Vamsi
+Sri Sai Vamsi
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+vamsisaisri23@gmail.com
 
 Phone
 +91 9494771118
@@ -18,7 +18,7 @@ Birthday
 December 17, 2001
 
 Location
-Sacramento, California, USA
+Vijayawada, Andhra Pradesh, India
 
 # navbar
 
@@ -32,7 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm Creative Director and UI/UX Designer from Vijayawada, Andhra Pradesh, India, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
@@ -93,27 +93,19 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
+koneru lakshmaiah university
+2019 — 2023
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-New york academy of art
-2006 — 2007
+Sri Chaitanya Junior College
+20017 — 2019
 Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
 
-High school of art and design
-2002 — 2004
+Sri Chaitanya School
+20016 — 2017
 Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
 Experience
-
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 Web designer
 2010 — 2013
